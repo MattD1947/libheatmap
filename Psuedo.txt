@@ -1,0 +1,23 @@
+open both images
+make entry field for all locations with interger being the only valid input
+create a draw function
+make multiple draw functions that are called dependent of the the value
+e.g if table 101 has only 1 then draw green, if table 101 has 10 then draw red
+if there are values in dictionary that is above 0, draw transparent circle around the location
+also label the value of the circle
+make a submit data button 
+submit button updates all values in dictionary
+submit button draws over the image where the value of the dictionary is not 0
+make a switch view button under the displayed map
+switch view changes display from floor 1 map to floor 2 map and vice versa
+save both images into a directory
+save updated values to a text file
+create two buttons for open old file or create a new one
+open old file button needs to bring up file selection
+after opening the selected file, append the values to the dictionary
+display the current values transparently inside the entry field
+write instructions on how to use the program	
+
+combo box shows list of dict keys, when the selection is change, entry box default value of that key shows appears
+when the entry is changed, the value of that key changes
+
